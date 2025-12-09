@@ -1,33 +1,35 @@
 # SQL Project: Music Data Store Analysis
 Read the full detailed article here.
 
-#Description
+# Description
 This project uses SQL to analyze the dataset of an online music store. The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
-#Installation
+# Installation
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
 
-#Create a database.
+# Create a database.
 Create tables using the schema diagram provided below.
 Import csv files provided in the dataset folder.
 Note: If you are using PostgreSQL then restore the backup file of the database and save yourself some time.
 
-#Schema Diagram
+# Schema Diagram
 Schema Diagram
+<img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/fa2f0174-22c4-4776-b54c-3f3c0a3c242f" />
 
-#Database and Tools
+
+# Database and Tools
 Postgre SQL
 PgAdmin4
 Credits
 Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/VFIuIjswMKM
 
-#License
+# License
 You can use this dataset to build your own project and practice your SQL skills.
 
-#Badges
+# Badges
 postgresql YouTube
 
-#Questions Answered
+# Questions Answered
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
 
 What are the most popular genres of music?
