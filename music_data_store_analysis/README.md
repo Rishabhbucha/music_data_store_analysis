@@ -15,7 +15,8 @@ Note: If you are using PostgreSQL then restore the <a href="[https://github.com/
 
 ## Schema Diagram
 
-![Schema Diagram]((https://github.com/Rishabhbucha/music_data_store_analysis/blob/main/MusicDatabaseSchema.png))
+![Schema Diagram](<img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/e1524f33-abeb-4a87-8d38-b9668f7625eb" />
+)
 
 <!-- ## Usage
 
@@ -84,5 +85,6 @@ The project was successful in answering the set of questions about the store's b
 
 
 I hope this is helpful! -->
+
 
 
